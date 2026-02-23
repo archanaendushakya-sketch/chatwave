@@ -49,5 +49,4 @@ cd server
 npm test
 ```
 
----
-Built with ❤️ by Antigravity AI
+
